@@ -2,12 +2,10 @@ public class testfile
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello");
+       public int x, i;
 
-        int i;
-
-        int k;
-
-        printkn
+       for ( i = 0; i < max; i++) {
+           System.out.println("Print "+x);
+       }
     }
 }
